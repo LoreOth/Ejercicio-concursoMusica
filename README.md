@@ -1,2 +1,2 @@
-# Ejercicio-concursoMusica
+# Ejercicio-ConcursoMúsica
 Ejercicio UNLP, POO.
